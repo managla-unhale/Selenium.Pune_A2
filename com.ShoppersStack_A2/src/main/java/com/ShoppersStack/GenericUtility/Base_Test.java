@@ -39,6 +39,7 @@ public class Base_Test {
 	public Java_Utility javaUtility = new Java_Utility();
 	public WebDriver_Utility webdriverUtility = new WebDriver_Utility();
 	public WebDriverWait wait;
+	
 
 	@BeforeSuite
 	public void beforeSuite() {
